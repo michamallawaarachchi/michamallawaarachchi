@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Designing.
 - 🌱 I’m currently learning Birmingham City University BSC (Hons) Software Engineering at Java Institute Sri Lanka
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 michamallawaarachchi/michamallawaarachchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
